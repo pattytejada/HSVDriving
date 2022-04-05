@@ -1,0 +1,18 @@
+Goals and Plans For The Rest of The Semester: 
+
+Meeting on Tuesday - November 9, 2021 - Meeting in Room 09-335 at 11AM. 
+
+What to bring: 
+1. Extra wires and breadboard - Will 
+2. Car Components - Camera, Wheels, Motor, Housing (Pat)
+3. Glue or tape - Huy
+4. Portable Battery - Pat and Will and Paul will bring the long usb to usb-c wire.  
+5. Webcam (just in case - Paul)
+7. Adapters - Will 
+8. Laptop - (Paul)
+9. Selfie Stick - (Paul)
+10. Paper printout of Traffic lights - Will
+11. RPI - Huy
+12. Arduino - Pat
+13. Boxcutter - Pat
+

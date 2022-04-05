@@ -1,0 +1,32 @@
+# Red Color
+L - H: 0
+U - H: 10
+L - S: 200 
+U - S: 255
+L - V: 200 
+U - V: 255
+
+# Yellow Color
+L - H: 0
+U - H: 70
+L - S: 125 
+U - S: 180
+L - V: 180 
+U - V: 255
+
+# Green Color
+L - H: 60
+U - H: 86
+L - S: 60 
+U - S: 255
+L - V: 60 
+U - V: 255
+
+#Purple Color 
+L - H: 120
+U - H: 175
+L - S: 170 
+U - S: 255
+L - V: 0 
+U - V: 255
+

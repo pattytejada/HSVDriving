@@ -1,0 +1,23 @@
+Processor:	Intel(R) Core(TM) i7-1065G7 CPU @ 1.30GHz, 1498 Mhz, 4 Core(s), 8 Logical Processor(s) 
+
+
+11,16,2021 12:30:56
+My program took 15.438982963562012 seconds to run
+11,16,2021 12:32:15
+My program took 15.229133367538452 seconds to run
+11,16,2021 12:32:51
+My program took 15.280198335647583 seconds to run
+11,16,2021 12:33:34
+My program took 15.223756790161133 seconds to run
+11,16,2021 12:34:20
+My program took 15.350022792816162 seconds to run
+11,16,2021 12:34:48
+My program took 15.43875765800476 seconds to run
+11,16,2021 12:35:14
+My program took 15.417387962341309 seconds to run
+11,16,2021 12:36:10
+My program took 15.144601821899414 seconds to run
+11,16,2021 12:38:53
+My program took 15.434081554412842 seconds to run
+11,16,2021 12:39:37
+My program took 15.39533305168152 seconds to run

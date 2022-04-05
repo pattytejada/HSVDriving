@@ -1,0 +1,27 @@
+CPU - Intel(R) Core(TM)-i7-10750H-CPU @2.60GHz, 2592 Mhz
+11,16,2021 11:20:16
+My program took 15.569520473480225 seconds to run
+11,16,2021 11:21:29
+My program took 0.3214895725250244 seconds to run
+11,16,2021 11:22:00
+My program took 15.03035831451416 seconds to run
+11,16,2021 11:22:48
+My program took 15.215162992477417 seconds to run
+11,16,2021 11:23:55
+My program took 0.31716346740722656 seconds to run
+11,16,2021 11:24:28
+My program took 15.69612193107605 seconds to run
+11,16,2021 11:26:42
+My program took 15.58394455909729 seconds to run
+11,16,2021 11:27:08
+My program took 15.624369144439697 seconds to run
+11,16,2021 11:27:38
+My program took 15.618465423583984 seconds to run
+11,16,2021 11:28:22
+My program took 15.479171991348267 seconds to run
+11,16,2021 11:28:35
+My program took 0.331866979598999 seconds to run
+11,16,2021 11:29:12
+My program took 15.771342754364014 seconds to run
+11,16,2021 11:29:40
+My program took 15.487027168273926 seconds to run

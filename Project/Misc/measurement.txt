@@ -1,0 +1,32 @@
+Motor Drive Module
+Operating mode: H-bridge driver (dual)
+Chip: L298N
+Logic voltage: 5V
+Logic current 0mA-36mA
+Drive voltage: 5V-35V
+Drive current: 2A (MAX single bridge)
+Maximum power: 25W
+Dimensions: 43x43x27mm
+Wheel Diameter: ~7cm
+DC Motor Dimension: ~7cm x ~2cm
+
+Note:
+General Application:
+When your driver is 7V-12V (Marked as 12V Input), you can use the on-board 5V logic supply.
+When using the on-board 5V power supply, do not input voltage at interface 5V Input, but it can
+draw 5V voltage for external use.
+
+Unconventional application of high-voltage drive:
+When the driving voltage is higher than 12V, less than or equal to 24V. First, the onboard 5V
+output enabled jumper cap must be removed, and then connect the 5V external voltage to the
+5V Input interface to power the L298N internal logic circuit.
+
+DC Motor
+Operating Voltage: 3V ~ 6V DC
+Reduction ratio: 1:48
+When the voltage is 6V:
+No-load current: ≤200mA
+No-load speed: 200±10%rpm
+When the voltage 3V:
+No-load current: ≤150mA
+No-load speed: 90±10%rpm

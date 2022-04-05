@@ -1,0 +1,23 @@
+Linux machine: Intel(R) Core(TM) i7-10700K CPU @ 3.80GHz
+
+
+11,17,2021 18:54:25
+My program took 15.702898025512695 seconds to run
+11,17,2021 18:55:02
+My program took 15.459057807922363 seconds to run
+11,17,2021 18:55:31
+My program took 15.6336510181427 seconds to run
+11,17,2021 18:55:58
+My program took 15.874109029769897 seconds to run
+11,17,2021 18:56:24
+My program took 15.712826490402222 seconds to run
+11,17,2021 18:56:56
+My program took 15.848623847961426 seconds to run
+11,17,2021 18:57:23
+My program took 15.77984929084778 seconds to run
+11,17,2021 18:58:19
+My program took 15.859042406082153 seconds to run
+11,17,2021 18:58:44
+My program took 15.803834915161133 seconds to run
+11,17,2021 18:59:10
+My program took 15.80062460899353 seconds to run
